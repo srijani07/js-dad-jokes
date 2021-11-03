@@ -7,8 +7,12 @@
     
 }
 
+h1 {
+    text-align: center;
+    margin-top:  3rem;
+}
 
-body {
+#display-wrapper {
     font-size :x-large;
     position: absolute;
     top: 50%;
